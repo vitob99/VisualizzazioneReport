@@ -1,0 +1,15 @@
+C:\Users\rebox\Desktop\VisualizzazioneReport\VisualizzazioneReport\bin\Debug\net10.0\VisualizzazioneReport.exe
+C:\Users\rebox\Desktop\VisualizzazioneReport\VisualizzazioneReport\bin\Debug\net10.0\VisualizzazioneReport.deps.json
+C:\Users\rebox\Desktop\VisualizzazioneReport\VisualizzazioneReport\bin\Debug\net10.0\VisualizzazioneReport.runtimeconfig.json
+C:\Users\rebox\Desktop\VisualizzazioneReport\VisualizzazioneReport\bin\Debug\net10.0\VisualizzazioneReport.dll
+C:\Users\rebox\Desktop\VisualizzazioneReport\VisualizzazioneReport\bin\Debug\net10.0\VisualizzazioneReport.pdb
+C:\Users\rebox\Desktop\VisualizzazioneReport\VisualizzazioneReport\obj\Debug\net10.0\VisualizzazioneReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebox\Desktop\VisualizzazioneReport\VisualizzazioneReport\obj\Debug\net10.0\VisualizzazioneReport.AssemblyInfoInputs.cache
+C:\Users\rebox\Desktop\VisualizzazioneReport\VisualizzazioneReport\obj\Debug\net10.0\VisualizzazioneReport.AssemblyInfo.cs
+C:\Users\rebox\Desktop\VisualizzazioneReport\VisualizzazioneReport\obj\Debug\net10.0\VisualizzazioneReport.csproj.CoreCompileInputs.cache
+C:\Users\rebox\Desktop\VisualizzazioneReport\VisualizzazioneReport\obj\Debug\net10.0\VisualizzazioneReport.sourcelink.json
+C:\Users\rebox\Desktop\VisualizzazioneReport\VisualizzazioneReport\obj\Debug\net10.0\VisualizzazioneReport.dll
+C:\Users\rebox\Desktop\VisualizzazioneReport\VisualizzazioneReport\obj\Debug\net10.0\refint\VisualizzazioneReport.dll
+C:\Users\rebox\Desktop\VisualizzazioneReport\VisualizzazioneReport\obj\Debug\net10.0\VisualizzazioneReport.pdb
+C:\Users\rebox\Desktop\VisualizzazioneReport\VisualizzazioneReport\obj\Debug\net10.0\VisualizzazioneReport.genruntimeconfig.cache
+C:\Users\rebox\Desktop\VisualizzazioneReport\VisualizzazioneReport\obj\Debug\net10.0\ref\VisualizzazioneReport.dll
